@@ -1,7 +1,8 @@
 # Material_asset_creator
 Quickly create material asset with textures 
+You can install the addon by downloading the.py file or.zip file from github
 Make sure You use blender version 3.3 or later otherwise asset browser would not work.
-You can install the .py file or.zip file downloded from github
+
 
 This addon lets you to create PBR materials with the following maps:
 #Albedo/Diffuse
