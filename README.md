@@ -2,7 +2,7 @@
 Quickly create material asset with textures .
 You can install the addon by downloading .zip file from github.
 
-IF it did not show installation then install only the .py file.
+IF it did not show installation then install only the .py file after extracting from .zip.
 
 Make sure You use blender version 3.3 or later otherwise asset browser icons would not work.
 
