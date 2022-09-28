@@ -23,8 +23,9 @@ This addon lets you to create PBR materials with the following maps:
 #Specular
 #Normal
 #Displacement
+#Alpha
 
-This addon automatically names your material based on the names of the texture images . 
+This addon automatically names your material based on the names of the texture images and automatically creates mapping . 
 You can select which map to use in the panel before creating materials.
 To use the assets from your library you must save the blend file in any folder and add the blend file path to your
 asset directory in blender preferences.
