@@ -3,7 +3,7 @@ Quickly create material asset with textures .
 
 Tutorial video 
 
-https://www.youtube.com/watch?v=0t_0OVPtOjU
+https://ik.imagekit.io/p894ka6if/Material_asset_creator_videoYT_XTWRVuKQF.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1665721657946
 
 *****************************IMPORTANT*****************************
 
